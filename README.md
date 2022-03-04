@@ -5,9 +5,9 @@ This repository contains all data corresponding to the Data Analytics Bootcamp P
 # PyCitySchools Analysis
 I was tasked with aggregating a city's school district data, and analyse trends within the student populations reading and maths scores data based on school size, school budget, and school type.
 
-* The reference .csv files can be found at: **[PyCitySchools/Resources/](https://github.com/sarahcasauria/Python-challenge/blob/main/PyCitySchools/Resources/)**
+* The reference .csv files can be found at: **[PyCitySchools/Resources/](https://github.com/sarahcasauria/pandas-challenge/tree/main/PyCitySchools/Resources)**
 
-* The Python script can be found at: **[PyCitySchools/PyCitySchools_Notebook.ipynb](https://github.com/sarahcasauria/Python-challenge/blob/main/PyCitySchools/PyCitySchools_Notebook.ipynb)**
+* The Python script can be found at: **[PyCitySchools/PyCitySchools_Notebook.ipynb](https://github.com/sarahcasauria/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_Notebook.ipynb)**
 
 ## Report Summary
 ### Observation 1 - School Budget Trends
